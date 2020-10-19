@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "charconv": "c",
+        "chrono": "cpp",
+        "cmath": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "thread": "cpp"
+    }
+}

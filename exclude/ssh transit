@@ -1,0 +1,11 @@
+
+
+scp /Users/t.t./Desktop/study/AOS/Project1/project1.cpp wxz190003@dc01:/home/013/w/wx/wxz190003
+scp /Users/t.t./Desktop/study/AOS/Project1/config.txt wxz190003@dc01:/home/013/w/wx/wxz190003
+
+
+
+netstat -tunlp | grep 1233
+
+
+scp /Users/t.t./Desktop/study/AOS/Project1/test.cpp wxz190003@dc01:/home/013/w/wx/wxz190003

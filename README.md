@@ -1,7 +1,3 @@
-Wenteng Zhao  
-2021484728  
-CS 6378.002 - Advanced Operating Systems - F20  
-Project 1  
 
 ---
 
